@@ -1,112 +1,108 @@
-Chirag Rathi — Research Portfolio
+# Chirag Rathi — Independent Research
 
-ORCID: 0009-0008-1682-4369
-Status: Independent Student Researcher
-Domains: Theoretical Biology, Systems Thinking, Applied Mathematics, AI-assisted Research
-
-
----
-
-Overview
-
-This repository serves as a central research hub consolidating my independent academic work, hypotheses, experimental notes, and ongoing theoretical explorations. The goal is not volume, but clarity, traceability, and rigor.
-
-All major works are indexed through ORCID. This repository provides:
-
-Transparent versioning of ideas
-
-Structured documentation
-
-Supplementary material not suitable for journals
-
+**ORCID:** 0009-0008-1682-4369  
+**Status:** Independent Student Researcher  
 
 
 ---
+Research Focus Areas:
+Systems-Level Modeling · Mathematical Abstraction · Conceptual & Hypothesis-Driven Research · Preliminary computational Exploration
 
-Research Philosophy
+## Overview
 
-I follow a first-principles, system-level approach:
+This repository records ongoing and archived independent research, including formal outputs and exploratory material.
 
-Understand mechanisms, not memorization
+It consolidates archived publications, hypotheses, analytical notes, and exploratory models.
 
-Prefer falsifiable hypotheses (null-first framing)
+The objective is clarity, traceability, and methodological rigor — not volume.
 
-Use mathematics and models to reduce ambiguity
+All finalized work is archived externally (Zenodo) and indexed via ORCID.  
+This repository focuses on structure, versioning, and transparent development.
+---
 
+## Research Approach
 
-> If a claim cannot be tested, it is treated as incomplete.
+I follow a first-principles, system-level methodology:
 
+- These principles are applied across all projects listed below,
+with explicit assumptions, constraints, and failure modes documented.
 
-
+> If a claim cannot be tested or constrained, it is treated as incomplete.
 
 ---
 
-Contents
+## Repository Structure
+Each directory is intentionally scoped to distinguish **finalized outputs** from **exploratory material**.
 
-1. Published / Indexed Work
+---
+### Published & Archived Work
 
-Linked and archived via ORCID
+- **3D Octahedral Dyson Swarm Architecture**  
+  Zenodo Preprint  
+  DOI: https://doi.org/10.5281/zenodo.18172605  
+  Focus: Geometric and orbital stability considerations in energy-harvesting megastructures  
 
-Includes preprints, conceptual frameworks, and analytical notes
+- **Collapse–Rebound Mechanism for Large-Scale Voids**  
+  Zenodo Preprint  
+  DOI: https://doi.org/10.5281/zenodo.18176283  
+  Focus: Conceptual mechanism modeling of void formation dynamics  
 
-
-2. Hypotheses & Models
-
-Clearly stated assumptions
-
-Explicit null hypotheses
-
-Mathematical or logical structure where applicable
-
-
-3. Experimental & Analytical Notes
-
-Thought experiments
-
-Simulation outlines
-
-Error analysis and limitations
-
-
-4. Future Work
-
-Identified gaps
-
-Open questions
-
-Planned extensions
-
-
+Additional archived work is indexed via the ORCID record and not mirrored here.https://orcid.org/0009-0008-1682-4369
 
 ---
 
-Methodology Standards
+## Hypotheses & Models
 
-Clear definitions before conclusions
+These models are exploratory and constrained by explicitly stated assumptions.  
+They are intended as starting points for formal testing, simulation, or critique.  
+This section prioritizes conceptual clarity over empirical completeness.
 
-Separation of observation vs interpretation
+Ongoing work in this repository adheres to the following standards:
 
-Documentation of uncertainty
+- Clearly defined scope and assumptions  
+- Explicit null hypotheses where applicable  
+- Mathematical or logical structure when possible  
+- Identification of testability limits and failure modes  
 
-
-
----
-
-License
-
-This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-You are free to share and adapt this work with proper attribution.
-
+Exploratory ideas are marked as such and are **not presented as conclusions**.
 
 ---
 
-Contact & Attribution
+## Experimental & Analytical Notes
+Notes range from qualitative reasoning sketches to quantitative
+back-of-the-envelope models and preliminary simulation designs.
 
-Author: Chirag Rathi
+This section includes:
 
-ORCID: 0009-0008-1682-4369
+- Thought experiments  
+- Simulation outlines  
+- Error analysis and uncertainty tracking  
+- Limitations and unresolved questions  
 
-Email Chiragrathireserch@gmail.com 
+These notes are maintained for transparency and iterative refinement.
 
-Academic correspondence and collaboration requests should reference the specific work or section.
+---
+
+## Methodology Standards
+
+- Definitions precede conclusions  
+- Observation is separated from interpretation  
+- Uncertainty is explicitly documented  
+- Negative results and constraints are preserved  
+
+---
+
+## Potential extensions subject to validation and feedback
+
+- Identified theoretical and mathematical gaps  
+- Model refinement and validation pathways  
+- Extension toward computational implementation  
+- Cross-domain synthesis where appropriate  
+
+l
+
+## Contact & Attribution
+
+**Author:** Chirag Rathi  
+**ORCID:** 0009-0008-1682-4369  
+**Email:** chiragrathiresearch@gmail.com  
