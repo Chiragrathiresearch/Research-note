@@ -107,5 +107,6 @@ Author: Chirag Rathi
 
 ORCID: 0009-0008-1682-4369
 
+Email Chiragrathireserch@gmail.com 
 
 Academic correspondence and collaboration requests should reference the specific work or section.
