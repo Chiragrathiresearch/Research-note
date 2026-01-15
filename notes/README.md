@@ -9,3 +9,6 @@ These notes are:
 - Not finalized publications
 
 Each note documents assumptions, observations, and open questions.
+## Current Notes
+
+- [Octahedral Geometry](octahedral-geometry.md)
