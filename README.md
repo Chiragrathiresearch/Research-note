@@ -1,7 +1,5 @@
 # Chirag Rathi — Independent Research
 
-**ORCID:** 0009-0008-1682-4369  
- Independent Researcher  
 
 
 ---
